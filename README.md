@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @alaa-aqeel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning GOLang
-- 📫 How to reach me ...
+### Hi there I'm Alaa 👋 Web developer [resume](https://alaaprog.github.io/)
 
-<!---
-alaa-aqeel/alaa-aqeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working as Freelance
+- 🌱 I’m currently learning Kotlin.
+- 💬 Ask me about Python,PHP
+- 📫 How to reach me: [email](mailto:alaa.21.iraq@gmail.com) [linkedin](https://www.linkedin.com/in/alaa-aqeel/) 
+
+---
+
+<img align="left" alt="Ahmed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AlaaProg&show_icons=true&hide_border=true&theme=tokyonight" />
