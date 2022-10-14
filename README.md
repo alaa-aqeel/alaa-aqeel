@@ -1,7 +1,7 @@
 ### Hi there I'm Alaa 👋 Web developer [resume](https://alaaprog.github.io/)
 
 - 🔭 I’m currently working as Freelance
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning golang.
 - 💬 Ask me about Python,PHP
 - 📫 How to reach me: [email](mailto:alaa.21.iraq@gmail.com) [linkedin](https://www.linkedin.com/in/alaa-aqeel/) 
 
